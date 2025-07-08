@@ -35,7 +35,7 @@ Follow these steps to get the project running on your local machine.
 ### 2. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/FastAPI-Notes-App.git](https://github.com/your-username/FastAPI-Notes-App.git)
+git clone (https://github.com/abdullah-dev07/FastAPI-Notes-App.git)
 cd FastAPI-Notes-App
 ````
 
@@ -66,7 +66,7 @@ uvicorn[standard]
 pymongo
 python-multipart
 jinja2
-bson
+
 ```
 
 Now, install them using pip:
